@@ -1,0 +1,9 @@
+.venv/
+
+data/
+storage/
+
+test-algo-1/__pycache__/
+test-algo-1/.idea/
+test-algo-1/.vscode/
+test-algo-1/backtests/
